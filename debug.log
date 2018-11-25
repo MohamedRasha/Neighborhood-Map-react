@@ -1,0 +1,12 @@
+[0219/120924.927:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Access is denied. (0x5)
+[0219/120924.961:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0219/120925.006:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1125/110906.448:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1125/111457.362:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1125/155403.368:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1125/175015.565:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1125/180040.261:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1125/185052.973:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1125/185441.161:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1125/192221.261:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1125/193441.788:ERROR:crash_report_database_win.cc(428)] unexpected header

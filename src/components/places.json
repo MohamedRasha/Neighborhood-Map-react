@@ -1,0 +1,8 @@
+
+[
+  { "title": "Cairo Festival City Mall", "location": { "lat": 30.031958, "lng": 31.408473 }, "id": 0, "venueID": "5268f5d2498ee025c2cb6794" },
+  { "title": "Family Park", "location": { "lat": 30.080482, "lng": 31.50214 }, "id": 1, "venueID": "55152e6e498e4c7fe5de11f8" },
+  { "title": "Cairo International Airport", "location": { "lat": 30.112363, "lng": 31.400289 }, "id": 2, "venueID": "502e7e15e4b07d6b34754dd9" },
+  { "title": "ITWORX", "location": { "lat": 30.030926, "lng": 31.341619 }, "id": 3, "venueID": "4c736edb0e8cbfb744070adb" },
+  { "title": "Cairo Opera House", "location": { "lat": 30.0431613, "lng": 31.1518388 }, "id": 4, "venueID": "512bc1dde4b0067bb70e2eab" }
+]
